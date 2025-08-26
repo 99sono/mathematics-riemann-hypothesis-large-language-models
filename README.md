@@ -124,3 +124,8 @@ This section provides a step-by-step breakdown of the key exchanges in the docum
 
 - **Dialogue Step 10 (Tab 22: Gemini 2.5 Pro's Final Response)**:
   Gemini declares consensus as "right path"; recaps journey (problem definition to synthesis); praises balance (vision/pragmatism, AI-native, productive failures); affirms prototype as next step; gut feeling: process glimpses future of science via multi-perspective convergence.
+
+### Full Dialogue
+
+For the complete dialogue excerpts from the strategic debate on proving the Riemann Hypothesis, see [Full Round Table Dialogue](01_round_table_full_dialogue.md).
+  
